@@ -9,4 +9,4 @@ git clone https://github.com/username/student-labs.git
 cd student-labs
 # переход в ветку project
 git checkout project
-python main.py
+python clav.py
